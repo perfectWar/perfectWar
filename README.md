@@ -50,3 +50,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 
 </p>
+
+![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perfectWar&show_icons=true&theme=radical)
+
