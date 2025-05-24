@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=perfectWar&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=perfectWar&theme=react-dark](https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark)" alt="GitHub Activity Graph"/>
 </p>
 
 
