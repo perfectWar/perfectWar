@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<h3 align="center">I'm <b>Manaswini Rath</b> — but you can call me <i>Mitali</i> 🌼</h3>
+<p align="center">A passionate learner, designer & AI enthusiast ✨</p>
+
 <a href="https://www.instagram.com/__jelly_beans/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
