@@ -17,7 +17,7 @@
   </a>
 </p>
 - 👩 Pronouns: **She/Her**  
-- 🔭 Currently working on: **Music Recognition** *(focused on Rajasthani folk instruments)*  
+- 🔭 Currently working on: **Music Recognition** *(focused on Rajasthani folk instruments)*
 - 🌱 Currently learning: **Image Processing** — including edge detection, segmentation & more  
 - 💬 Ask me about:
   - Machine Learning  
