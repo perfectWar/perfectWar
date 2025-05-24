@@ -24,7 +24,6 @@
   - Deep Learning  
   - Graphics & UI/UX Design  
   - Research projects  
-- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/manaswini-rath-3436a824b/)  
 - ❤️ Passionate about: **Graphic Design** — I love creating with Figma, Photoshop, and Illustrator  
 - ⚡ Fun fact: I started exploring TED Talks after discovering *"The Best Stats You've Ever Seen"* by **Hans Rosling**!
 
