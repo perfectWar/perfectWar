@@ -52,4 +52,25 @@
 </p>
 
 ![Mitali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perfectWar&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical)
+[![Mitali's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=perfectWar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perfectWar&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=perfectWar&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+
 
