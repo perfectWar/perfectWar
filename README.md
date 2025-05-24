@@ -16,16 +16,16 @@
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="50"/>
   </a>
 </p>
-- 👩 Pronouns: **She/Her**  
-- 🔭 Currently working on: **Music Recognition** *(focused on Rajasthani folk instruments)*
-- 🌱 Currently learning: **Image Processing** — including edge detection, segmentation & more  
-- 💬 Ask me about:
-  - Machine Learning  
-  - Deep Learning  
-  - Graphics & UI/UX Design  
-  - Research projects  
-- ❤️ Passionate about: **Graphic Design** — I love creating with Figma, Photoshop, and Illustrator  
-- ⚡ Fun fact: I started exploring TED Talks after discovering *"The Best Stats You've Ever Seen"* by **Hans Rosling**!
+<p>- 👩 Pronouns: **She/Her**  </p>
+<p>- 🔭 Currently working on: **Music Recognition** *(focused on Rajasthani folk instruments)*</p>
+<p>- 🌱 Currently learning: **Image Processing** — including edge detection, segmentation & more  </p>
+<p>- 💬 Ask me about: </p>
+  <p>- Machine Learning  </p>
+  <p>- Deep Learning  </p>
+  <p>- Graphics & UI/UX Design  </p>
+  <p>- Research projects  </p>
+<p>- ❤️ Passionate about: **Graphic Design** — I love creating with Figma, Photoshop, and Illustrator  </p>
+<p>- ⚡ Fun fact: I started exploring TED Talks after discovering *"The Best Stats You've Ever Seen"* by **Hans Rosling**!</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
