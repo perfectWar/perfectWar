@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=perfectWar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical" alt="GitHub Streak" />
