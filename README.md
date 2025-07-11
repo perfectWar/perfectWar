@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
@@ -63,7 +63,105 @@
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark" alt="GitHub Activity Graph" />
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<div align="center">
+
+### I'm **Manaswini Rath** — but you can call me _Mitali_ 🌼
+A passionate learner, designer & AI enthusiast from India ✨
+
+<a href="https://www.linkedin.com/in/manaswini-rath-3436a824b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/__jelly_beans/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/MitalisWorkbench"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+
+![](https://komarev.com/ghpvc/?username=perfectWar&style=flat-square&color=blueviolet)
+
+</div>
+
+---
+
+### 🧐 More About Me
+
+-  pronouns: **She/Her**
+- 🔭 I’m currently working on **Music Recognition for Rajasthani folk instruments**.
+- 🌱 I’m currently learning **Image Processing**, including edge detection, segmentation & more.
+- 💬 Ask me about **Machine Learning, Deep Learning, UI/UX Design, and Research**.
+- ❤️ I'm passionate about creating beautiful designs with **Figma, Photoshop, and Illustrator**.
+- ⚡ Fun fact: I started exploring TED Talks after discovering **"The Best Stats You've Ever Seen"** by Hans Rosling!
+
+---
+
+### 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="Numpy" />
+      <br>Numpy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 
