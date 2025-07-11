@@ -130,10 +130,9 @@ A passionate learner, designer & AI enthusiast from India ✨
 ---
 
 ### 📊 GitHub Stats & Activity
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical&hide_border=true&border_radius=5" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
