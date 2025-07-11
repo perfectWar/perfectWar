@@ -78,90 +78,63 @@ A passionate learner, designer & AI enthusiast from India ✨
 <a href="https://www.instagram.com/__jelly_beans/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/MitalisWorkbench"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-![](https://komarev.com/ghpvc/?username=perfectWar&style=flat-square&color=blueviolet)
-
 </div>
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🧐 More About Me
 
--  pronouns: **She/Her**
-- 🔭 I’m currently working on **Music Recognition for Rajasthani folk instruments**.
-- 🌱 I’m currently learning **Image Processing**, including edge detection, segmentation & more.
-- 💬 Ask me about **Machine Learning, Deep Learning, UI/UX Design, and Research**.
-- ❤️ I'm passionate about creating beautiful designs with **Figma, Photoshop, and Illustrator**.
-- ⚡ Fun fact: I started exploring TED Talks after discovering **"The Best Stats You've Ever Seen"** by Hans Rosling!
+- 🔭   I’m currently working on **Music Recognition for Rajasthani folk instruments**.
+- 🌱   I’m learning **Image Processing**, including edge detection & segmentation.
+- ❤️   I love creating with **Figma, Photoshop, and Illustrator**.
+- 💬   Ask me about **Machine Learning, Deep Learning, UI/UX, and Research**.
+- ⚡   Fun fact: I discovered my love for data stories with Hans Rosling's **"The Best Stats You've Ever Seen"** TED Talk!
 
----
+</td>
+<td valign="top" width="40%">
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="Numpy" />
-      <br>Numpy
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
+**Languages:**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
+</p>
+
+**Data Science & ML:**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/>
+</p>
+
+**Design & Tools:**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectWar&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectWar&layout=compact&theme=radical&hide_border=true&border_radius=5" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-
